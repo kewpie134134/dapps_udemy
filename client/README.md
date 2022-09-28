@@ -68,3 +68,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+## Udemy 講座
+
+[スマートコントラクトの概念を網羅的に学べる Web3.0 完全入門パック][https://fujitsu.udemy.com/course/web3-blockchain-app-udemy/learn/lecture/31586370#overview]
